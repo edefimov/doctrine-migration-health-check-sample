@@ -1,0 +1,6 @@
+liip_monitor:
+  checks:
+    doctrine_migrations:
+      my_app:
+        configuration_file: "%kernel.project_dir%/config/migrations.yaml"
+        connection: default

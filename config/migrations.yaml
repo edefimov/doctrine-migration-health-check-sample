@@ -1,0 +1,4 @@
+name: My application migrations
+migrations_directory: '../migrations'
+migrations_namespace: DoctrineMigrations
+
